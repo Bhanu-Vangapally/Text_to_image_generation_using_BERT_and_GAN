@@ -3,7 +3,7 @@
 
 ## :bulb: What's new?
 - We use BERT embeddings for the text description instead of the char-CNN-RNN text embeddings that were used in the paper implementation.
-<img src="examples/framework.jpg" width="850px" height="370px"/>
+<img width="582" height="448" alt="image" src="https://github.com/user-attachments/assets/ec948217-69a1-4d96-893d-620266cad4be" /> <br>
 
 ## Pretrained model
 - [Stage 1](https://drive.google.com/drive/folders/14AyNcu7oZJe2aMevynAbYIpMKN7I3yHT?usp=sharing) trained using BERT embeddings instead of the orignal char-CNN-RNN text embeddings
