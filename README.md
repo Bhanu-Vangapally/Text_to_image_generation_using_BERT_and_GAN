@@ -10,11 +10,11 @@
 - [Stage 2](https://drive.google.com/drive/folders/1Pyndsp9oraE15ssD4MZJBVsyLW1ECCIi?usp=sharing) trained using BERT embeddings instead of the orignal char-CNN-RNN text embeddings
 
 ## Paper examples
-#### :bird: Examples for birds (char-CNN-RNN embeddings), more on [youtube](https://youtu.be/93yaf_kE0Fg):
-![](examples/bird1.jpg) <br>
-![](examples/bird2.jpg) <br>
-![](examples/bird4.jpg) <br>
-![](examples/bird3.jpg) <br>
+
+<img width="582" height="448" alt="image" src="https://github.com/user-attachments/assets/ec948217-69a1-4d96-893d-620266cad4be" /> <br>
+
+<img width="560" height="376" alt="image" src="https://github.com/user-attachments/assets/352f1c7c-a7ec-406e-85fb-ac28b592fa3d" /><br>
+
 
 --------------------------------------------------------------------------------------------
 
